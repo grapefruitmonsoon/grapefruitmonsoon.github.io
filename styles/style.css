@@ -1,0 +1,53 @@
+﻿/*  Setup  */
+
+html {
+    background-color: hsl(60, 10%, 50%);
+    font-family: 'Source Code Pro', monospace;
+    font-size: 12px;
+}
+
+body {
+    margin: 0 auto;
+    width: 600px;
+}
+
+/*  Typography  */
+
+h1 {
+    font-size: 22px;
+    margin: 0;
+    padding: 10px 0;
+    text-align: left;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+.delagothicone {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+span.red-1 {
+    color: hsl(0, 50%, 50%);
+}
+
+/*  Header  */
+
+header {
+    
+}
+
+/*  Main  */
+
+img {
+    display: block;
+    padding: 0px 0px 11px 0px;
+}
+
+footer {
+    margin-top: 100px;
+}
